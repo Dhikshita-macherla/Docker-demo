@@ -37,6 +37,6 @@ jobs:
       uses: docker/build-push-action@v3
       with:
         push: true
-        tags: dhikshita/demo:v1
+        tags: dhikshita/demo1:v1
         file: ./Dockerfile
 
